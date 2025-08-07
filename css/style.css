@@ -1,0 +1,34 @@
+.titleText {
+text-shadow: 4px 4px 6px rgba(45, 61, 151, 0.322);
+text-align: center;
+font-size: 3em;
+color: #25476A;
+background: #FFFFFF;
+}
+
+
+.addressText {
+font-family: "Courier New", Courier, monospace;
+text-align: center;
+font-size: 2em;
+letter-spacing: 4px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: none;
+}
+
+
+.center_it {
+text-align: center;
+}
+
+.image_float{
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 3px 12px -8px rgba(0,0,0,0);
+width: 350px; 
+height: 337px; 
+object-fit: cover;
+}
